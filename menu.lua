@@ -81,7 +81,7 @@ function scene:create( event )
 	playBtn.x = display.contentWidth*0.5
 	playBtn.y = display.contentHeight - 125
 	
-	Btn = display.newText("Created by Adarsh Telkur and Ankitha Prem",0,0,native.systemFont,14)
+	Btn = display.newText("Created by Adarsh Telkur",0,0,native.systemFont,14)
 	Btn.x = display.contentWidth*0.5
 	Btn.y = display.contentHeight - 80
 	
